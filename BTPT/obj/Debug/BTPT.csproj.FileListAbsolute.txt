@@ -1,0 +1,16 @@
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\BTPT\BTPT\bin\Debug\BTPT.exe.config
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\BTPT\BTPT\bin\Debug\BTPT.exe
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\BTPT\BTPT\bin\Debug\BTPT.pdb
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\BTPT\BTPT\obj\Debug\BTPT.csproj.AssemblyReference.cache
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\BTPT\BTPT\obj\Debug\BTPT.csproj.SuggestedBindingRedirects.cache
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\BTPT\BTPT\obj\Debug\BTPT.csproj.CoreCompileInputs.cache
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\BTPT\BTPT\obj\Debug\BTPT.exe
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\BTPT\BTPT\obj\Debug\BTPT.pdb
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\Console\BTPT\bin\Debug\BTPT.exe.config
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\Console\BTPT\bin\Debug\BTPT.exe
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\Console\BTPT\bin\Debug\BTPT.pdb
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\Console\BTPT\obj\Debug\BTPT.csproj.AssemblyReference.cache
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\Console\BTPT\obj\Debug\BTPT.csproj.SuggestedBindingRedirects.cache
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\Console\BTPT\obj\Debug\BTPT.csproj.CoreCompileInputs.cache
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\Console\BTPT\obj\Debug\BTPT.exe
+D:\BaiTapDiemQuaTrinh-2174801030077-Lê Thái Vỹ\Console\BTPT\obj\Debug\BTPT.pdb
